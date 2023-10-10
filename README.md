@@ -1,4 +1,5 @@
 # Simon-Game
+<a href="https://nas1812.github.io/Simon-Game/">Refer to this link to view</a>
 built with JQuery,css and Html
 1. Inside game.js create a new function called nextSequence()
 
